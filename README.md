@@ -1,4 +1,4 @@
-# test-3
+# ex-vue-local-font-face-less
 
 ## Project setup
 ```
